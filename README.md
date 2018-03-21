@@ -17,4 +17,5 @@ Run the notebooks interactivly with Binder by clicking on the badge above!
 ## Contributors
 
 The LHCb analysis surveys were organised by Sebastian Neubert (@seneubert), who kindely gave me permission to use this data. 
+If you would like to contribute to this repository, please create a pull request or an issue.
 
