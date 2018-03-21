@@ -6,9 +6,9 @@
 
 These notebooks describe:
 
-	- `lhcb-data-production-statistics` shows data sizes and ratios between datasets produced at LHCb
-	- `lhcb-analysis-data-survey` shows average data sizes used in analyses at LHCb
-	- `lhcb-analysis-reproducibiity-survey` shows various features on how analyses are done, shared and reproduced at LHCb. The survey presents two samples, the first one collected before the LHCb analysis preservation and reproducibility hackaton, and the second one was presented to the students.
+- `lhcb-data-production-statistics` shows data sizes and ratios between datasets produced at LHCb
+- `lhcb-analysis-data-survey` shows average data sizes used in analyses at LHCb
+- `lhcb-analysis-reproducibiity-survey` shows various features on how analyses are done, shared and reproduced at LHCb. The survey presents two samples, the first one collected before the LHCb analysis preservation and reproducibility hackaton, and the second one was presented to the students.
 
 ## Instuctions
 
