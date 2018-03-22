@@ -1,0 +1,39 @@
+Timestamp,How familiar are you with: [Docker],How familiar are you with: [continuous integration],How familiar are you with: [make-like pipeline system],How familiar are you with: [CERN Open stack],Do you have access to your colleagues' code?,Do you have a code repository for your analysis?,How often do you reproduce final datasets in your analysis (eg. add variables)?,What software do you use?,Student
+20/03/2018 21:47,Never used,Never used,Never used,Used it once or twice,"Probably yes, if I asked","Yes, on gitlab",Every few weeks,ROOT;Official experiment software;C++;python;bash scripts;makefile,Yes
+20/03/2018 21:49,Used it once or twice,Never used,Never used,Never used,Yes,"Yes, on github",Every few months,ROOT;C++;python;bash scripts,Yes
+20/03/2018 21:52,Used it once or twice,Never used,Never used,Never used,"Probably yes, if I asked","Yes, on gitlab",Every few months,ROOT;Official experiment software;C++;python;bash scripts;makefile,Yes
+20/03/2018 22:02,Never used,Used it once or twice,Never used,Used it once or twice,Yes,"Yes, on gitlab",Every few months,ROOT;Official experiment software;python;bash scripts,Yes
+20/03/2018 22:02,Never used,Used it once or twice,Never used,Never used,Yes,"Yes, on gitlab",Other,ROOT;Official experiment software;C++;python;bash scripts,Yes
+20/03/2018 22:14,Never used,Never used,Never used,Never used,Yes,"Yes, on gitlab",Every few weeks,ROOT;Official experiment software;C++;python;bash scripts;makefile,Yes
+20/03/2018 22:29,Never used,Using it regularly,Used it once or twice,Never used,Yes,"Yes, on gitlab",Every few months,ROOT;Official experiment software;C++;python;bash scripts;makefile,Yes
+20/03/2018 22:29,Never used,Never used,Never used,Never used,No,No,Every few weeks,ROOT;C++;python;bash scripts;makefile,Yes
+20/03/2018 22:30,Never used,Using it regularly,Using it regularly,Never used,Yes,"Yes, on gitlab",Every few weeks,ROOT;Official experiment software;C++;python;bash scripts;makefile,Yes
+20/03/2018 22:38,Using it regularly,Used it once or twice,Using it regularly,Used it once or twice,Yes,"Yes, on github",Every few months,ROOT;Official experiment software;C++;python;bash scripts;makefile;Htcondor and dagman ,Yes
+20/03/2018 22:51,Never used,Customizing it for my purpose,Using it regularly,Never used,Yes,"Yes, on gitlab",Every few months,ROOT;Official experiment software;C++;python;bash scripts;makefile,Yes
+20/03/2018 22:54,Never used,Used it once or twice,Never used,Never used,"Probably yes, if I asked","Yes, on gitlab",Every few months,ROOT;C++;python;bash scripts;makefile,Yes
+20/03/2018 23:13,Never used,Never used,Never used,Never used,Yes,"Yes, on github",Every few months,ROOT;Official experiment software;C++;python,Yes
+20/03/2018 23:54,Never used,Never used,Never used,Never used,Yes,"Yes, on SVN",Every few months,ROOT;Official experiment software;C++;python;bash scripts;makefile,Yes
+21/03/2018 07:59,Never used,Never used,Never used,Never used,Yes,"Yes, on gitlab",Every few months,ROOT;python,Yes
+21/03/2018 09:42,Used it once or twice,Used it once or twice,Used it once or twice,Used it once or twice,Yes,"Yes, on gitlab",Every few months,ROOT;Official experiment software;C++;python,Yes
+21/03/2018 09:58,Never used,Never used,Never used,Never used,Yes,"Yes, on gitlab",Every few months,ROOT;Official experiment software;C++;python;bash scripts,Yes
+21/03/2018 11:23,Never used,Never used,Never used,Never used,Yes,"Yes, on gitlab",Other,ROOT;C++;python;bash scripts;makefile,Yes
+21/03/2018 12:18,Never used,Never used,Used it once or twice,Never used,Yes,"Yes, on gitlab",Every few months,ROOT;C++;python;bash scripts;makefile,Yes
+21/03/2018 18:53,Never used,Using it regularly,Using it regularly,Used it once or twice,"Probably yes, if I asked","Yes, on gitlab",Every few months,ROOT;Official experiment software;C++;python;bash scripts;makefile,Yes
+21/03/2018 20:23,Never used,Never used,Never used,Never used,Yes,"Yes, on SVN",Every few months,Official experiment software,Yes
+21/03/2018 21:32,Never used,Never used,Never used,Used it once or twice,"Probably yes, if I asked","Yes, on github",Every few weeks,python;bash scripts,Yes
+22/03/2018 09:42,Never used,Never used,Used it once or twice,Never used,"Probably yes, if I asked","Yes, on gitlab",Every few months,ROOT;Official experiment software;C++;python;bash scripts,Yes
+02/09/2017 13:47,Customizing it for my purpose,Customizing it for my purpose,Using it regularly,Customizing it for my purpose,,"Yes, on gitlab",Every few months,ROOT;python;bash scripts,No
+02/10/2017 17:26,Used it once or twice,Customizing it for my purpose,Customizing it for my purpose,Customizing it for my purpose,Yes,"Yes, on gitlab",Every few months,ROOT;C++;python;bash scripts;makefile,No
+02/11/2017 01:30,Never used,Never used,Never used,Used it once or twice,"Probably yes, if I asked","Yes, on gitlab",Every few weeks,ROOT;python,No
+02/12/2017 15:05,Never used,Never used,Never used,Never used,,"Yes, on SVN",Every few months,ROOT;Official experiment software;C++,No
+02/15/2017 11:02,Never used,Never used,Used it once or twice,Never used,"Probably yes, if I asked","Yes, on gitlab",Every few months,ROOT;Official experiment software;C++;python,No
+02/15/2017 20:48,Never used,Never used,Used it once or twice,Never used,"Probably yes, if I asked","Yes, on gitlab",Every few weeks,C++;python;ROOT,No
+02/16/2017 16:02,Never used,Never used,Using it regularly,Never used,Yes,"Yes, on gitlab",At most once,ROOT;python,No
+02/17/2017 14:27,Used it once or twice,Using it regularly,Used it once or twice,Used it once or twice,"Probably yes, if I asked",No,At most once,ROOT;Official experiment software;C++;python,No
+02/21/2017 14:35,Used it once or twice,Using it regularly,Customizing it for my purpose,Used it once or twice,Yes,"Yes, on gitlab",Every few months,C++;snakemake;ROOT;python,No
+02/22/2017 16:02,Never used,Never used,Never used,Never used,No,No,Every few weeks,python,No
+03/02/2017 14:18,Never used,Never used,Never used,Never used,Yes,"Yes, on gitlab",At most once,python,No
+03/15/2017 16:39,Never used,Never used,Never used,Never used,Yes,"Yes, on gitlab",Every few months,ROOT;Official experiment software;C++;python;bash scripts,No
+03/20/2017 11:52,Never used,Customizing it for my purpose,Never used,Never used,Yes,"Yes, on gitlab",Every few months,C++;python;ROOT,No
+03/21/2017 13:54,Never used,Never used,Using it regularly,Used it once or twice,Yes,"Yes, on gitlab",At most once,python;ROOT;R,No
+03/21/2017 17:30,Never used,Never used,Using it regularly,Never used,"Probably yes, if I asked","Yes, on gitlab",At most once,python;C++;ROOT,No
