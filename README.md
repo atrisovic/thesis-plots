@@ -1,6 +1,6 @@
 # LHCb survey on data production and physics analyses
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/atrisovic/thesis-plots/master)
+[![DOI](https://zenodo.org/badge/68934736.svg)](https://zenodo.org/badge/latestdoi/68934736) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/atrisovic/thesis-plots/master)
 
 ## Description
 
